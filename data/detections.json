@@ -1,0 +1,16 @@
+[
+    {
+        "original_text": "Let's meet tomorrow at 3pm to finalize the report",
+        "detections": [
+            {
+                "detected_phrase": "tomorrow",
+                "interpreted_as": "2025-10-09 14:17:31"
+            },
+            {
+                "detected_phrase": "3pm",
+                "interpreted_as": "2025-10-08 15:00:00"
+            }
+        ],
+        "timestamp": "2025-10-08T14:17:33.749067"
+    }
+]
